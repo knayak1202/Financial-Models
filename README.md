@@ -2,6 +2,9 @@
 
 Welcome to my **Financial Models** repository!
 
+![Finance Banner](./finance-banner.jpeg)
+
+
 I’m a passionate finance professional with hands-on experience as a **Financial Analyst**. During my time in the industry, I developed models for over **15 private companies** across various sectors. While those models were internal and confidential, this space is my personal portfolio to showcase my skills through **case-study-based models**.
 
 ---
