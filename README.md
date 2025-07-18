@@ -1,2 +1,2 @@
 # Financial-Models
-Financial Models Caste Studies
+Financial Models Case Studies
