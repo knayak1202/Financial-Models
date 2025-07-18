@@ -14,8 +14,6 @@ I genuinely enjoy financial modeling — building models from scratch, stress-te
 - Apply techniques from real-world finance
 - Practice structuring models across industries
 
-Whether you're a **hiring manager**, **recruiter**, or fellow finance enthusiast, this collection shows my range — from **basic templates** to **advanced investor-ready models**.
-
 ---
 
 ## 📁 What You'll Find
